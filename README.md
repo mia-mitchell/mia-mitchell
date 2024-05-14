@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mia-mitchell
 - 👀 I’m interested in forest ecology and lidar datasets.
-- 🌱 I’m currently learning Python and R
 - 📫 How to reach me is at my email at mitchell.mia01@gmail.com
 
 <!---
